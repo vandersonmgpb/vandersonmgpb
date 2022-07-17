@@ -7,7 +7,8 @@ Tenho 41 anos e estou em transição de carreira profissional. Sempre trabalhei 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vandersonanalistaqa/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vandersonmgpb)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/) [Em construção]
+<a href="https://api.whatsapp.com/send?phone=5583999641689&text=Oi%2C%20eu%20venho%20do%20seu%20GitHub%2C%20gostaria%20de%20entrar%20em%20contato%20com%20voc%C3%AA!" target="_blank" > <https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white;"/>
+</a>
 
 ![Vanderson GitHub stats](https://github-readme-stats.vercel.app/api?username=vandersonmgpb&show_icons=true&theme=tokyonight)
 
@@ -15,9 +16,12 @@ Tenho 41 anos e estou em transição de carreira profissional. Sempre trabalhei 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
-### Estou aprendendo
+### Estou praticando
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+
+
+          
 
 
 
