@@ -40,7 +40,7 @@ Tenho 41 anos e estou em transição de carreira profissional. Sempre trabalhei 
 <br></div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=135&section=footer"/>****
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=135&section=footer"/>
 
           
 
