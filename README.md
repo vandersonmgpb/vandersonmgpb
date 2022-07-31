@@ -28,6 +28,7 @@ Tenho 41 anos e estou em transição de carreira profissional. Sempre trabalhei 
 ### Estou praticando
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40" />
 
 #### Em busca de um futuro melhor!
 
