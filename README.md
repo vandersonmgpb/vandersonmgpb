@@ -15,7 +15,7 @@ Tenho 41 anos e estou em transição de carreira profissional. Sempre trabalhei 
 
 <a href="https://api.whatsapp.com/send?phone=5583999641689&text=Oi%2C%20eu%20venho%20do%20seu%20GitHub%2C%20gostaria%20de%20entrar%20em%20contato%20com%20voc%C3%AA!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
-![Vanderson GitHub stats](https://github-readme-stats.vercel.app/api?username=vandersonmgpb&theme=dark&show_icons=true)
+![Vanderson GitHub stats](https://github-readme-stats.vercel.app/api?username=vandersonmgpb&theme=darcula&show_icons=true)
 
 
 ### Ferramentas e Tecnologias
