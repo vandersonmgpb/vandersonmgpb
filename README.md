@@ -26,7 +26,8 @@ Tenho 41 anos e estou em transição de carreira profissional. Sempre trabalhei 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-
+<img src="https://user-images.githubusercontent.com/95548483/194727590-4be46838-efbb-428d-a577-4db51945d2ce.png" 
+width="40" height="40"/>
           
           
 
@@ -36,6 +37,8 @@ Tenho 41 anos e estou em transição de carreira profissional. Sempre trabalhei 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40" />
+<img src="https://user-images.githubusercontent.com/95548483/194727590-4be46838-efbb-428d-a577-4db51945d2ce.png" 
+width="40" height="40"/>
 
 #### Em busca de um futuro melhor!
 
